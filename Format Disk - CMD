@@ -1,0 +1,12 @@
+##Format disk with CMD
+
+X:\Sources>diskpart
+DISKPART> list disk
+DISKPART> select disk [introduce el número del elegido]
+DISKPART> clean
+DISKPART> create partition primary
+DISKPART>  select partition 1
+DISKPART> active
+DISKPART>  format fs=NTFS
+DISKPART> assign
+DISKPART> exit
