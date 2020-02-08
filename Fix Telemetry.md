@@ -8,8 +8,6 @@ Enable execution of PowerShell scripts:
 
 -----------------------LINKS-----------------------------------------------------------
     https://docs.microsoft.com/en-us/windows/win32/intl/table-of-geographical-locations
-    https://docs.microsoft.com/en-us/windows/win32/intl/table-of-geographical-locations
-    https://docs.microsoft.com/en-us/windows/win32/intl/table-of-geographical-locations
 -----------------------LINKS-----------------------------------------------------------
 
 ## Usage
