@@ -7,7 +7,7 @@ Enable execution of PowerShell scripts:
     PS> Set-WinHomeLocation -GeoId *******
 
 -----------------------LINKS-----------------
-docs.microsoft.com/en-us/windows/win32/intl/table-of-geographical-locations
+https://docs.microsoft.com/en-us/windows/win32/intl/table-of-geographical-locations
 -----------------------LINKS-----------------
 
 ## Usage
